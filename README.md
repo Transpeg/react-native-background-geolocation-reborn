@@ -207,7 +207,7 @@ export default BgTracking;
 Add the package to your project
 
 ```
-yarn add https://github.com/IronTony/react-native-background-geolocation-reborn
+yarn add https://github.com/Transpeg/react-native-background-geolocation-reborn
 ```
 
 ### Automatic setup
